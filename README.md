@@ -1,6 +1,6 @@
 # Dev Onboarding Documentation?
 
-> compilation of tech documentation ideas by n00n3xx
+> compilation of tech documentation ideas
 > 
 
 
