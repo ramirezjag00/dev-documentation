@@ -8,7 +8,7 @@
 >
 > Documentations can be as simple as README in a separate repository (ie. readme for each role) or using frameworks like docusaurus for APIs / libraries or using JSDoc/TSDoc/TypeDoc for codebase/block documentation or Storybook for components or using Notion for all documentations.
 >
-> The team can be as verbose or consise as they want. It doesn't matter 😛 as long as any dev-level won't get lost while reading your 💩.
+> The team can be as verbose or concise as they want. It doesn't matter, as long as any dev-level won't get lost while reading your 💩.
 >
 > There are a lot of open source projects that documents description & alternatives, how an individual can start contributing, see existing/closed issues, which features are merged and all change logs.
 >
