@@ -20,6 +20,7 @@
     - team/squad structure/overview including QAs PMs and backend devs
     - relevant tech channels (chat)
     - point of contact(s) and what they do?
+    - company wide / app wide / products - glossary
 - codebase
     - get started: description and how to run the app (readme.md)
     - folder structure (file tree) of project, with description
@@ -28,7 +29,7 @@
     - codebase architecture? data fetching? local db? apis? enviroments? etc
     - current state of the code base
     - high-level / general plan for the future of codebase / road map
-    - API Docs and/or chat/channels where api json for postman is always posted and updated
+    - API Docs and/or chat/channels where api json for http client (postman, insomnia, thunder client) is always posted and updated
 - resources:
     - HOW-TOs
         - ie. benchmarking, performance optimizations, testing etc
