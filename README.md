@@ -21,6 +21,12 @@
     - relevant tech channels (chat)
     - point of contact(s) and what they do?
     - company wide / app wide / products - glossary
+- events
+  - tools
+  - event names, descriptions
+  - tti events table with relevant details of sections of the app of each release
+- features
+  - roadmap
 - codebase
     - get started: description and how to run the app (readme.md)
     - folder structure (file tree) of project, with description
@@ -48,3 +54,5 @@
 > - [git tagging](https://git-scm.com/docs/git-tag) to keep track of all codebase versions (releases, beta etc) + [changelog.md](https://keepachangelog.com/en/1.0.0/) to keep track of whatever a certain version has
 >
 > - using issues tab of git repos (with proper tagging and details) to keep track of any issues solved, existing ones, temporary/band-aid fixes, any documentation, maintainance, announcements etc.
+> - write everything in TypeScript, write unit/integration/e2e tests and pipelines -- serves as the base documentation every dev should need
+> - utilize specific chat channels with bot(s) if necessary
